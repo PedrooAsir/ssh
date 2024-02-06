@@ -15,5 +15,12 @@ A la otra persona le compartiremos la clave pública que se almacena en el archi
 
 - Continuamente, pondremos el comando **ssh-copy-id [usuario]@[IP a la que quieres conectarte]**
 
+Con esto ya podremos conectarnos a la máquina de la otra persona , con el siguiente comando.
+
+```
+ssh [usuario]@[IP de esa persona]
+
+```
+
 
 ## 2. **Como configurar el acceso ssh en el GitHub.**
