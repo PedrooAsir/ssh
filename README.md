@@ -22,5 +22,10 @@ ssh [usuario al que te quieres conectar]@[IP de esa persona]
 
 ```
 
-
 ## 2. **Como configurar el acceso ssh en el GitHub.**
+
+- En GitHUb vamos a *Settings* y vamos al apartado de SSH, donde añadiremos una clave SSH (add SSH key).
+
+Ahí pondremos nuestra clave pública SSH, que se ubica en **/.ssh** y veremos el contenido del archivo *id_rsa.pub*.
+
+Tan solo copiamos la clave generada que se encuentra dentro del archivo especificado y la pegamos en GitHub en el sitio especificado anteriormente.
