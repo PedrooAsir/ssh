@@ -8,4 +8,8 @@
 
 Si la queremos por defecto simplemente pulsamos "Enter" y nos pedirá si queremos poner una *passphrase* que es como una capa mas de seguridad, eso ya al gusto del consumidor. Obviamente si no la queremos pues no ponemos nada.
 
+
+- Continuamente, pondremos el comando **ssh-copy-id [usuario]@[IP a la que quieres conectarte]**
+
+
 ## 2. **Como configurar el acceso ssh en el GitHub.**
