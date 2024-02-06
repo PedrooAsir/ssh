@@ -8,7 +8,7 @@
 
 Si la queremos por defecto simplemente pulsamos "Enter" y nos pedirá si queremos poner una *passphrase* que es como una capa mas de seguridad, eso ya al gusto del consumidor. Obviamente si no la queremos pues no ponemos nada.
 
-*Si vamos a la carpeta donde se almacenan las claves /home/asir2/.ssh/id_rsa o id_rsa.pub* , dependiendo si quieres la pública (**.pub**) o la privada.
+*Si vamos a la carpeta donde se almacenan las claves /home/asir2/.ssh/id_rsa o id_rsa.pub* (dependiendo si quieres la pública (**.pub**) o la privada). Tendremos los archivos de estas donde se almacenan las claves en la ruta especificada.
 
 
 A la otra persona le compartiremos la clave pública que se almacena en el archivo **id_rsa.pub**. Para ello haremos lo siguiente -->
