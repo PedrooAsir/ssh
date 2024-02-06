@@ -32,9 +32,18 @@ Tan solo copiamos la clave generada que se encuentra dentro del archivo especifi
 
 - Una vez hecho lo anterior, vamos a nuestro repositorio de GitHUb que queramos usar y en el boton verde que es para copiar un enlace, marcaremos la opcion de "ssh".
 
-Por lo que quedará algo tal que así.
+Por lo que quedará algo tal que así (Enlace del repositorio).
 ```
 git@github.com:PedrooAsir/ssh.git
 ```
 
 Finalmente, en la Terminal ponemos lo siguiente.
+
+```
+ssh -T git@github.com
+```
+```
+ssh clone git@github.com:PedrooAsir/ssh.git
+```
+
+Y listo
