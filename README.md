@@ -10,6 +10,9 @@ Si la queremos por defecto simplemente pulsamos "Enter" y nos pedirá si queremo
 
 *Si vamos a la carpeta donde se almacenan las claves /home/asir2/.ssh/id_rsa o id_rsa.pub* , dependiendo si quieres la pública (**.pub**) o la privada.
 
+
+A la otra persona le compartiremos la clave pública que se almacena en el archivo **id_rsa.pub**. Para ello haremos lo siguiente -->
+
 - Continuamente, pondremos el comando **ssh-copy-id [usuario]@[IP a la que quieres conectarte]**
 
 
