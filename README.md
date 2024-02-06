@@ -29,3 +29,12 @@ ssh [usuario al que te quieres conectar]@[IP de esa persona]
 Ahí pondremos nuestra clave pública SSH, que se ubica en **/.ssh** y veremos el contenido del archivo *id_rsa.pub*.
 
 Tan solo copiamos la clave generada que se encuentra dentro del archivo especificado y la pegamos en GitHub en el sitio especificado anteriormente.
+
+- Una vez hecho lo anterior, vamos a nuestro repositorio de GitHUb que queramos usar y en el boton verde que es para copiar un enlace, marcaremos la opcion de "ssh".
+
+Por lo que quedará algo tal que así.
+```
+git@github.com:PedrooAsir/ssh.git
+```
+
+Finalmente, en la Terminal ponemos lo siguiente.
