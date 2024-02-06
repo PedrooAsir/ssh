@@ -2,3 +2,5 @@
 
 ## 1. **Conectarse al usuario admin de otra máquina por medio de claves publica y privado.**
 
+
+## 2. **Como configurar el acceso ssh en el GitHub.**
