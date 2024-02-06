@@ -18,7 +18,7 @@ A la otra persona le compartiremos la clave pública que se almacena en el archi
 Con esto ya podremos conectarnos a la máquina de la otra persona , con el siguiente comando.
 
 ```
-ssh [usuario]@[IP de esa persona]
+ssh [usuario al que quieres conectar]@[IP de esa persona]
 
 ```
 
