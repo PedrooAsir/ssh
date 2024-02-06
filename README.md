@@ -8,6 +8,7 @@
 
 Si la queremos por defecto simplemente pulsamos "Enter" y nos pedirá si queremos poner una *passphrase* que es como una capa mas de seguridad, eso ya al gusto del consumidor. Obviamente si no la queremos pues no ponemos nada.
 
+*Si vamos a la carpeta donde se almacenan las claves /home/asir2/.ssh/id_rsa o id_rsa.pub* , dependiendo si quieres la pública (**.pub**) o la privada.
 
 - Continuamente, pondremos el comando **ssh-copy-id [usuario]@[IP a la que quieres conectarte]**
 
