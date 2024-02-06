@@ -13,7 +13,7 @@ Si la queremos por defecto simplemente pulsamos "Enter" y nos pedirá si queremo
 
 A la otra persona le compartiremos la clave pública que se almacena en el archivo **id_rsa.pub**. Para ello haremos lo siguiente -->
 
-- Continuamente, pondremos el comando **ssh-copy-id [usuario]@[IP a la que quieres conectarte]**
+- Continuamente, pondremos el comando **ssh-copy-id [usuario al que te quieres conectar]@[IP a la que quieres conectarte]**
 
 Con esto ya podremos conectarnos a la máquina de la otra persona , con el siguiente comando.
 
